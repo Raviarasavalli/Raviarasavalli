@@ -20,68 +20,85 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-### Frontend
-
+<h3>Frontend</h3>
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React.js"/>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="40" height="40"/>
   </a>
-  <a href="https://angular.dev/">
-    <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular"/>
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40"/>
   </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS"/>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
   </a>
 </p>
 
-### Backend
-
+<h3>UI Libraries</h3>
 <p align="left">
-  <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js"/>
+  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=chakraui" alt="Chakra UI" width="40" height="40"/>
   </a>
 </p>
 
-### Database
-
+<h3>Backend</h3>
 <p align="left">
-  <a href="https://www.mongodb.com/">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"/>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/>
   </a>
 </p>
 
-### Tools
-
+<h3>Database</h3>
 <p align="left">
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
   </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/>
-  </a>
-  <a href="https://www.postman.com/">
-    <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="SQL / MySQL" width="40" height="40"/>
   </a>
 </p>
 
----
+<h3>APIs & Development</h3>
+<p align="left">
+  <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=axios" alt="Axios" width="40" height="40"/>
+  </a>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40"/>
+  </a>
+</p>
+
+<h3>Tools</h3>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/>
+  </a>
+</p>---
 
 ## 🚀 Featured Projects
 
