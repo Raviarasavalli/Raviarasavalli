@@ -123,58 +123,7 @@ A full-stack NGO website built to present AMSS initiatives, volunteer programs, 
 - 🔗 REST API integration
 - 📄 Dynamic activity pages
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Raviarasavalli&show_icons=true&hide_border=true&rank_icon=github"
-    alt="Ravi's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raviarasavalli&layout=compact&hide_border=true"
-    alt="Ravi's Top Languages"
-  />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Raviarasavalli&hide_border=true"
-    alt="Ravi's GitHub Contribution Streak"
-  />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Raviarasavalli&hide_border=true"
-    alt="Ravi's Contribution Activity Graph"
-  />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Raviarasavalli&no-frame=true&no-bg=true&margin-w=8"
-    alt="Ravi's GitHub Trophies"
-  />
-</p>
-
----
 
 ## 📌 GitHub Profile
 
