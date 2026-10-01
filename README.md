@@ -2,9 +2,6 @@
 
 ### MERN Stack Developer | React.js | Node.js | Express.js | MongoDB
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Raviarasavalli&label=Profile%20Views&color=0e75b6&style=flat" alt="Raviarasavalli" />
-</p>
 
 ---
 
